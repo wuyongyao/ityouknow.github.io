@@ -9,7 +9,7 @@ permalink: /link
 
 
 ## 友情链接
-
+- [纯洁的微笑](http://www.ityouknow.com/) - 技术分享，品味人生！
 - [匠心零度博客](http://www.jiangxinlingdu.com/) - 以匠心，铸非凡！
 - [麦田技术博客](http://blog.itmyhome.com/) - 将来的你，一定会感激现在拼命努力的自己。 
 - [王登科-DK博客](http://www.wdk.pw) - 一个技术创业者  
