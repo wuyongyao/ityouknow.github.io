@@ -212,19 +212,4 @@ t(spring:session:expirations:1472976480000
 
  其实就是按照上面的步骤在另一个项目中再次配置一次，启动后自动就进行了session共享。
 
-
-**[示例代码-github](https://github.com/ityouknow/spring-boot-examples)**
-
-**[示例代码-码云](https://gitee.com/ityouknow/spring-boot-examples)**
-
-## 参考
-
-[Redis的两个典型应用场景](http://emacoo.cn/blog/spring-redis)<br/>
-[SpringBoot应用之分布式会话](https://segmentfault.com/a/1190000004358410)
-
-
 -------------
-
-**作者：纯洁的微笑**  
-**出处：[www.ityouknow.com](http://www.ityouknow.com)**      
-**版权所有，欢迎保留原文链接进行转载：)**

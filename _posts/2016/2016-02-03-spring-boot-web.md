@@ -379,23 +379,7 @@ bootRun {
 
 就可以正常使用了！
 
-**[示例代码-github](https://github.com/ityouknow/spring-boot-examples)**
-
-**[示例代码-码云](https://gitee.com/ityouknow/spring-boot-examples)**
-
-## 参考：
-
-[新一代Java模板引擎Thymeleaf](http://www.tianmaying.com/tutorial/using-thymeleaf)
-
-[Spring Boot参考指南-中文版](https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/content/)
-
-
-
 -------------
-
-**作者：纯洁的微笑**  
-**出处：[www.ityouknow.com](http://www.ityouknow.com)**    
-**版权所有，欢迎保留原文链接进行转载：)**
 
 
 
